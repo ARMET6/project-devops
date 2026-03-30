@@ -15,8 +15,7 @@ def main():
             for reservation in response['Reservations']:
                 for instance in reservation['Instances']:
                     print(f"ID: {instance['InstanceId']} - Estado: {instance['State']['Name']}")
-
-    elif accion == "iniciar":
+        elif accion == "iniciar":
             if len(sys.argv) < 3:
                 print("Error: Falta el ID de la instancia.")
                 sys.exit(1)
