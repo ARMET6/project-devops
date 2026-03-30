@@ -6,3 +6,7 @@ Completed 179 Bytes/179 Bytes (4.0 KiB/s) with 1 file(s) remainingupload failed
 [20260330_200138] Subiendo backup_20260330_200138.tar.gz a s3://respaldo-devops-adrian-razo-03050102/
 Completed 179 Bytes/179 Bytes (2.4 KiB/s) with 1 file(s) remainingupload: ./backup_20260330_200138.tar.gz to s3://respaldo-devops-adrian-razo-03050102/backup_20260330_200138.tar.gz
 [20260330_200138] Respaldo exitoso.
+[20260330_203058] Iniciando respaldo del directorio test_folder
+[20260330_203058] Subiendo backup_20260330_203058.tar.gz a s3://respaldo-devops-adrian-razo-03050102/
+Completed 179 Bytes/179 Bytes (2.1 KiB/s) with 1 file(s) remainingupload: ./backup_20260330_203058.tar.gz to s3://respaldo-devops-adrian-razo-03050102/backup_20260330_203058.tar.gz
+[20260330_203058] Respaldo exitoso.

@@ -1,0 +1,5 @@
+[2026-03-30 20:30:57] Iniciando pipeline CI/CD simulado...
+[2026-03-30 20:30:57] Ejecutando gestión EC2: iniciar en i-03fa950e5b54a9548
+Iniciando instancia i-03fa950e5b54a9548
+[2026-03-30 20:30:57] Ejecutando respaldo en S3 del directorio test_folder al bucket respaldo-devops-adrian-razo-03050102
+[2026-03-30 20:30:57] Pipeline finalizado.
